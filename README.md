@@ -1,12 +1,10 @@
 ## Hello world 👋
 <p>
   <em>
-    I am graduated from <a href="https://www.ifsc.edu.br/web/campus-gaspar"> <b>Instituto Federal de Santa Catarina (IFSC)</b>, Gaspar</a>. To check my final project open <a href="https://github.com/tailoralm/IoTConn/">IoT-Conn</a> repository.<br>
-    I have experience with java and i’m currently learning JavaScript | Node.js | React.js
+    I am graduated from <a href="https://www.ifsc.edu.br/web/campus-gaspar"> <b>Instituto Federal de Santa Catarina (IFSC)</b>, Gaspar</a>.
+    I have experience with JavaScript, Typescript, Node.js, React.js and Angular
   </em>  
 </p>
-
-![Shubhamdeep's github stats](https://github-readme-stats.vercel.app/api?username=tailoralm&show_icons=true&hide_border=true)
 
 ### 📫 Contact
 
