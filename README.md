@@ -12,9 +12,6 @@
 <a href="https://in.linkedin.com/in/tailoralm">
   <img align="left" alt="Tailor | Linkedin" width="24px" src="https://github.com/tailoralm/tailoralm/blob/master/Linkedin.svg" />
 </a>
-<a href="https://www.instagram.com/tailoralm/">
-  <img align="left" alt="Tailor | Instagram" width="24px" src="https://github.com/tailoralm/tailoralm/blob/master/Instagram.svg" />
-</a>
 <a href="mailto:tailor.alm@gmail.com">
   <img align="left" alt="Tailor | Gmail" width="26px" src="https://github.com/tailoralm/tailoralm/blob/master/Gmail.svg" />
 </a>
